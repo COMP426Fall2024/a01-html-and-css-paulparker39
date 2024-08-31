@@ -58,6 +58,14 @@ tr:nth-child(even) {
   -webkit-text-fill-color: blue;
   text-decoration-line: underline;
 }
+.table-back-button {
+  -webkit-text-fill-color: blue;
+  text-decoration-line: underline;
+  margin-left: 2cm;
+}
+mark {
+  background-color: rgba(255, 255, 255, 0.5);
+}
 table {
   background-color: #000000;
   width:fit-content;
@@ -221,4 +229,8 @@ hr {
 }
 .index {
   background-image: url("https://www.shutterstock.com/shutterstock/videos/17781277/thumb/1.jpg?ip=x480");
+}
+.table-click {
+  width:fit-content;
+  background-color: white;
 }
