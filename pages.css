@@ -28,9 +28,6 @@ body {
 ol {
   list-style: lower-greek;
 }
-.pre-click {
-  text-decoration-color: green;
-}
 .click-notice {
   -webkit-text-fill-color: white;
   text-decoration-line: underline;
